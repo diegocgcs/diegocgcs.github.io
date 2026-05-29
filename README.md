@@ -1,5 +1,4 @@
 # dicg
-<!DOCTYPE html>
 <html>
     <body>
         <p>Hello world!</p>
